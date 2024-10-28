@@ -7,7 +7,7 @@
 Hello, I'm Vitor Daniel, a Brazilian software developer
 
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://cdn.discordapp.com/attachments/1070158216572436536/1070165709079990312/vitnho3j_programmer_77c71157-4845-4c5a-a45a-09bd163597d6.png](https://scontent.fgig14-2.fna.fbcdn.net/v/t39.30808-6/329039168_3433893163520464_1799752716843044095_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEZbQ0mpRtS4M4tK6GhhUahKL9RWrnHMYcov1FauccxhxLg_pOsj_yv4EWZMW6GRB9exDrzaV6EmZ-o8910_SUp&_nc_ohc=xMBecAryD1wQ7kNvgE32MVP&_nc_zt=23&_nc_ht=scontent.fgig14-2.fna&_nc_gid=A-3D8c3d1io1YKsTzxiCYqh&oh=00_AYDm3GPUJre8vuD4uQ-gXSgpWq6tGN9r9-KiaX-qx7N8og&oe=6724B369)">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1070158216572436536/1070165709079990312/vitnho3j_programmer_77c71157-4845-4c5a-a45a-09bd163597d6.png](https://scontent.fgig14-2.fna.fbcdn.net/v/t39.30808-6/329039168_3433893163520464_1799752716843044095_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEZbQ0mpRtS4M4tK6GhhUahKL9RWrnHMYcov1FauccxhxLg_pOsj_yv4EWZMW6GRB9exDrzaV6EmZ-o8910_SUp&_nc_ohc=xMBecAryD1wQ7kNvgE32MVP&_nc_zt=23&_nc_ht=scontent.fgig14-2.fna&_nc_gid=A-3D8c3d1io1YKsTzxiCYqh&oh=00_AYDm3GPUJre8vuD4uQ-gXSgpWq6tGN9r9-KiaX-qx7N8og&oe=6724B369)">
   
 #### Some of my interests and characteristics: 
 
